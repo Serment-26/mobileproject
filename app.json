@@ -1,0 +1,12 @@
+{
+  "name": "mobileproject",
+  "displayName": "mobileproject",
+  "expo": {
+    "name": "mobileproject",
+    "slug": "mobileproject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
